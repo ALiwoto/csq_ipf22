@@ -92,6 +92,6 @@ Note: all of the content here are written by @javadr on one of our classes.
 
 
 <h2 align="middle"> ©️ All Rights Reserved </h2>
-<h3 align="middle"> csq_ipf22 | [javadr](https://github.com/javadr/) </h3>
+<h3 align="middle"> csq_ipf22 | <a href=https://github.com/javadr>javadr</a> </h3>
 
 
